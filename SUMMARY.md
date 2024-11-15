@@ -2,9 +2,6 @@
 
 * [test\_gitbook](README.md)
 * [test1123](test1123.md)
-* [Page 1](page-1/README.md)
-  * [Page 2](page-1/page-2.md)
-  * [page\_3](page-1/page\_3.md)
 * [addtest](add\_test.md)
 * [Git 分支相关命令](git-fen-zhi-xiang-guan-ming-ling.md)
 * [Page 2](page-2.md)
